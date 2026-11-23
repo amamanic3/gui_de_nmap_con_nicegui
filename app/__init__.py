@@ -1,0 +1,1 @@
+"""Nmap GUI application package."""
